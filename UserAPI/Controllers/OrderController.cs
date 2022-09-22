@@ -6,7 +6,7 @@ using UserAPI.Models;
 namespace UserAPI.Controllers
 {
     [ApiController]
-    [Route("[controller]/[action]")]
+    [Route("[controller]")]
     public class OrderController : ControllerBase
     {
         private readonly ILogger<OrderController> _logger;

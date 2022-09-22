@@ -18,12 +18,15 @@ namespace OrderFunction.Repositories
        
         public void ExecuteOrder(OrderFunction.Order order)
         {
-            if (order.Quantity > 100)
+            if (!(order.Quantity > 100))
             {
-                _logger.LogInformation($"{order.StockName} has quantity greater than 100.");
-                throw new Exception("Order failed !!! Quantity grater than 100.");
+                // PROCESS ORDER LOGIC
+                _logger.LogInformation($"{order.StockName} assigned to user successfully.");
             }
-            else { _logger.LogInformation($"{order.StockName} assigned to user successfully."); }
+            else {
+                _logger.LogError($"{order.StockName} has quantity greater than 100.");
+                throw new Exception("Order failed !!! Quantity greater than 100.");
+            }
 
         }
     }
