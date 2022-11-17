@@ -19,3 +19,4 @@ Create Azure Function App
 ![image](https://user-images.githubusercontent.com/92164758/202155003-1775cf7e-a93e-4c4d-91c2-56af49e32d76.png)
 ![image](https://user-images.githubusercontent.com/92164758/202154692-1e69fe95-c4a6-48cb-9f4f-d1f96bf53aa1.png)
 ![azure function triggers](https://user-images.githubusercontent.com/92291258/202390774-61c9ee08-f67c-4329-a27c-38ab19981336.png)
+![azure function triggers](https://user-images.githubusercontent.com/92291258/202393455-6f33239e-8c15-48aa-93f2-2485f2ccac64.gif)
