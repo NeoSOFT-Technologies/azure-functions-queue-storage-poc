@@ -20,3 +20,18 @@ Create Azure Function App
 ![image](https://user-images.githubusercontent.com/92164758/202154692-1e69fe95-c4a6-48cb-9f4f-d1f96bf53aa1.png)
 ![azure function triggers](https://user-images.githubusercontent.com/92291258/202390774-61c9ee08-f67c-4329-a27c-38ab19981336.png)
 ![azure function triggers](https://user-images.githubusercontent.com/92291258/202393455-6f33239e-8c15-48aa-93f2-2485f2ccac64.gif)
+
+Publish Azure Function
+![step 1](https://user-images.githubusercontent.com/92164758/202422986-3a80e332-3d11-463a-a4ba-37e47e3a40c2.png)
+![step 2](https://user-images.githubusercontent.com/92164758/202423133-b75250a0-c72d-40db-9235-0c7b71d024f2.png)
+![step 3](https://user-images.githubusercontent.com/92164758/202423278-510b103c-050c-435d-805d-f61e88df45f2.png)
+![step 4-1](https://user-images.githubusercontent.com/92164758/202424444-6ceae8c7-e8eb-4120-abe2-9a5a288e1a7f.png)
+![step 4-2](https://user-images.githubusercontent.com/92164758/202426594-ff58f36b-f263-4e2a-a18a-561326f02eee.png)
+![step 6](https://user-images.githubusercontent.com/92164758/202427064-6b905cac-f3d9-4713-b0fe-2df38a63260a.png)
+![step 8](https://user-images.githubusercontent.com/92164758/202427392-48c479d6-6507-4c8c-ac26-b216158dfc75.png)
+
+
+
+
+
+
