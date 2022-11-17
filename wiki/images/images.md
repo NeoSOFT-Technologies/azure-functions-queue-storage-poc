@@ -10,6 +10,8 @@ Storage Queue
 ![queuestep1](https://user-images.githubusercontent.com/88362571/202362410-a627ecea-c8ef-45c0-97a3-ee0ca1a7a476.png)
 ![queuestep2](https://user-images.githubusercontent.com/88362571/202362412-2f5db17b-4145-48fc-a02c-46b632a96c04.png)
 ![queuestep3](https://user-images.githubusercontent.com/88362571/202362413-1c554d38-2f29-40ae-ac97-88c611ed6d73.png)
+![queuestep4)](https://user-images.githubusercontent.com/88362571/202365611-588caaf6-b6be-4c9b-ba1e-5f6a31bcbfbc.png)
+
 
 
 Create Azure Function App 
