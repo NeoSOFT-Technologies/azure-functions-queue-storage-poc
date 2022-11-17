@@ -5,6 +5,7 @@ Storage Account
 ![step2](https://user-images.githubusercontent.com/88362571/202361338-50c87eaa-d4da-4ca7-ba79-b847dd5d1882.png)
 ![image3](https://user-images.githubusercontent.com/88362571/202361973-33c5cbce-754b-4d93-9e8c-a1c6b558c1ba.png)
 ![image4 (416)](https://user-images.githubusercontent.com/88362571/202362039-ccd0e2b7-9256-47e3-a1b2-5016269d7574.png)
+![queuestorage connstring](https://user-images.githubusercontent.com/92291258/202378239-3de2bf4e-4474-492e-8e8e-d172e26aedfa.png)
 
 Storage Queue
 ![queuestep1](https://user-images.githubusercontent.com/88362571/202362410-a627ecea-c8ef-45c0-97a3-ee0ca1a7a476.png)
